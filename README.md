@@ -13,6 +13,7 @@ The official website where the Poppers hang out. 😎
     -   form which stores the info
 -   Have a user profile
 -   Timeline for sharing progress, projects, stuff
+-   About page with info about us + Discord link
 
 Later, down the road:
 
